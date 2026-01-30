@@ -1,0 +1,2 @@
+# Requires: paradoxical-deferral
+# (Not available on PyPI)
